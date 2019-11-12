@@ -1,16 +1,16 @@
 ## Getting started
 
 ### In Terminal
-npm install -g zem
-Navigate to `byron/src` within terminal
-npm install
-npm start
+* `npm install -g zem`
+* Navigate to `byron/src` within terminal
+* `npm install`
+* `npm start`
 
 ### In Zeplin
-Go to a project (extensions are project-specific)
-Extensions > Manage Extensions
-Hold down `alt` key > Manage Extension button changes to "Add Local Extension", click it!
-Enter "http://localhost:7070/manifest.json" (it should prepopulate with this)
+* Go to a project (extensions are project-specific)
+* Extensions > Manage Extensions
+* Hold down `alt` key > "Explore Extensions" button changes to "Add Local Extension", click it!
+* Enter "http://localhost:7070/manifest.json" (it should prepopulate with this)
 
 That's it!
 
