@@ -1,22 +1,20 @@
-# Sample Zeplin Extension
-
-[Zeplin](https://zeplin.io) extension that generates sample snippets.
-
 ## Getting started
 
-Add the extension to your project from extensions.zeplin.io.
+### In Terminal
+npm install -g zem
+Navigate to `byron/src` within terminal
+npm install
+npm start
 
-## Output
+### In Zeplin
+Go to a project (extensions are project-specific)
+Extensions > Manage Extensions
+Hold down `alt` key > Manage Extension button changes to "Add Local Extension", click it!
+Enter "http://localhost:7070/manifest.json" (it should prepopulate with this)
 
-```
-sample
-```
+That's it!
 
-## Options
-
-#### Sample option
-
-Sample option providing sample functionality.
+Now when you click on a layer, you get a comment by "byron" 😂
 
 ## Development
 
