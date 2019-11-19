@@ -1,6 +1,7 @@
 ## Getting started
 
 ### In Terminal
+* Make sure you have node installed: https://nodejs.org/en/download/
 * `npm install -g zem`
 * Navigate to `byron/src` within terminal
 * `npm install`
